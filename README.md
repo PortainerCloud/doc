@@ -1,6 +1,6 @@
 # What is portainer.cloud?
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Good to know: Welcome to** [**portainer.cloud**](https://app.portainer.cloud)**,** the easiest way on internet to get seamlessly your perfered centralized service delivery platform for containerized apps . In addition you can also create your own docker hosts servers. &#x20;
 
 
@@ -13,34 +13,42 @@ No worries about upgrade to prepare, test and validate a single click does the j
 
 
 
-_If you’re new here, read below for a high-level overview of portainer.cloud._
+_If you’re new here, read below for a high-level overview of portainer.cloud. _
 
+_**Create a portainer instance**_
 
+Hassle-free portainer deployment
+
+**Create an Endpoint**
+
+Get a server to run your docker instance
+
+**Audit**
+
+Get your audit log in our Frontend&#x20;
+
+**Invoicing**
+
+By credit card with monthly billing based on your consumption
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
-
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+__
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
+**Got 2 minutes?** being authenticated seems to be the most tricky step. Then you just have to click on "Buy portainer"&#x20;
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+![Summary panel](<.gitbook/assets/Capture d’écran 2021-11-27 à 16.33.08.png>)
+
+The next screen is asking you for a default password. Keep in mind that your portainer requires a password to remain up and running, for security reason.
+
+![](<.gitbook/assets/Capture d’écran 2021-11-27 à 20.28.13.png>)
 
 {% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
+**Good to know:**  Later on you will discover that SSO authentication is ready with your Auth0 account. In other words yuo can easily grant access to cowrokers thank to it.
 {% endhint %}
 
-### Guides: Jump right in
+Guides: Jump right in
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
