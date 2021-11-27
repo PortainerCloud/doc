@@ -1,7 +1,7 @@
 # What is portainer.cloud?
 
 {% hint style="info" %}
-**Good to know: Welcome to** [**portainer.cloud**](https://app.portainer.cloud)**,** the easiest way on internet to get seamlessly your Docker/kubernetes/Azure ACI management tool. In addition you can also create your own docker hosts servers. &#x20;
+**Good to know: Welcome to** [**portainer.cloud**](https://app.portainer.cloud)**,** the easiest way on internet to get seamlessly your perfered centralized service delivery platform for containerized apps . In addition you can also create your own docker hosts servers. &#x20;
 
 
 
@@ -9,11 +9,13 @@
 
 1 click per node hosting dockers
 
-No more upgrade to prepare, test and validate
+No worries about upgrade to prepare, test and validate a single click does the job.
 
 
 
-providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+_If you’re new here, read below for a high-level overview of portainer.cloud._
+
+
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
