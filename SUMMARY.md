@@ -8,9 +8,7 @@
 
 ## Use Cases
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [For CTO](use-cases/for-cto.md)
+* [For Sys Admin](use-cases/for-sys-admin/README.md)
+  * [GitHub Integration](use-cases/for-sys-admin/github-integration.md)
+* [For Dev](use-cases/for-dev.md)
