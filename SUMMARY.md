@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is portainer.cloud?](README.md)
+* [SECURITY](security.md)
 
 ## Use Cases
 
