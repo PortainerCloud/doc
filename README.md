@@ -1,7 +1,7 @@
 # What is portainer.cloud?
 
 {% hint style="success" %}
-**Good to know: Welcome to** [**portainer.cloud**](https://app.portainer.cloud)**,** the easiest way on internet to get seamlessly your perfered centralized service delivery platform for containerized apps . In addition you can also create your own docker hosts servers. &#x20;
+**Good to know: Welcome to** [**portainer.cloud**](https://app.portainer.cloud)**,** the easiest way on internet to get seamlessly your preferred centralized service delivery platform for containerized apps . In addition, you can also create your own docker hosts servers. &#x20;
 
 
 
@@ -37,8 +37,7 @@ __
 ## Getting Started
 
 **Got 2 minutes?** being authenticated seems to be the most tricky step. Then you just have to click on "Buy portainer"&#x20;
-
-![Summary panel](<.gitbook/assets/Capture d’écran 2021-11-27 à 16.33.08.png>)
+<img src=".gitbook/assets/Capture d’écran 2021-11-27 à 16.33.08.png" width="500" height=282 />
 
 The next screen is asking you for a default password. Keep in mind that your portainer requires a password to remain up and running, for security reason.
 
