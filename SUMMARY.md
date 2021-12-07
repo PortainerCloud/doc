@@ -2,15 +2,16 @@
 
 * [WHAT IS portainer.cloud?](README.md)
 * [GUIDE](guide.md)
+* [Your journey with portainer.cloud](your-journey-with-portainer.cloud.md)
 * [SECURITY](security.md)
 
-## Use Cases
+## NOTES FOR
 
-* [Your journey with portainer.cloud](use-cases/your-journey-with-portainer.cloud.md)
-* [For CTO](use-cases/for-cto.md)
-* [For Sys Admin](use-cases/for-sys-admin.md)
-* [For Dev](use-cases/for-dev.md)
+* [CIO](notes-for/cio.md)
+* [CTO](notes-for/for-cto.md)
+* [Dev](notes-for/for-dev.md)
+* [Sys Admin](notes-for/for-sys-admin.md)
 
-## Group 1
+## PORTAINER ARCHITECTURE
 
-* [Architecture Technical Overview](group-1/architecture-technical-overview.md)
+* [Architecture Technical Overview](portainer-architecture/architecture-technical-overview.md)
