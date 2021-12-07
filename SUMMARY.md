@@ -1,7 +1,7 @@
 # Table of contents
 
 * [WHAT IS portainer.cloud?](README.md)
-* [WHAT IS portainer.cloud?](<README (1).md>)
+* [GUIDE](guide.md)
 * [SECURITY](security.md)
 
 ## Use Cases
