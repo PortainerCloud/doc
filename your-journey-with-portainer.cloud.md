@@ -21,7 +21,7 @@ how to get you kubernetes env ?
 > **Payment details**\
 > ****To add your payment details please enter your debit card number, your card expiration date.  Billing will be performed end of each month, by counting your monthly consumption.
 
-> **how to get a dedicated portainer instance?**
+> **How to get your dedicated portainer instance?**
 >
 > To start your own portainer instance, please _**click Buy Portainer button**_ in the summary section
 
@@ -29,9 +29,18 @@ how to get you kubernetes env ?
 \*Soon available portainer size (Smal, Medium, Large, Xtra Large)
 {% endfile %}
 
-> **how to get a server to host your dockerized apps?**
+> As soon as your portainer is available, it will appear on right hand side, by clicking the instance ID get a direct access to portainer. You will be prompted for an Oauth session, or for the admin authentication. \
+> Your porainter backup is included.
+>
+> Your private docker registry is included
+>
+> **Note that the max number of portainer ordered will be invoiced.**
+
+> **How to get a server to host your dockerized apps?**
 >
 > To get a host to deploy for containers directly attached to your portainer account without any effort, please _**click the button Buy Env**_
+>
+> _**Note that the max number of host ordered will be invoiced**_
 
 {% file src=".gitbook/assets/Buy Env.png" %}
 **\*Soon avaiable env size (Small, Medium, Large, Xtra Large)**
@@ -39,7 +48,7 @@ how to get you kubernetes env ?
 
 ****
 
-> **how to get you kubernetes env ?**
+> **How to get your kubernetes env ?**
 >
 > To get a fully managed kubernetes environment directly attached to your portainer, pre configured and ready for production without any effort, please _**click the button Buy Kubes**_
 
@@ -47,7 +56,7 @@ how to get you kubernetes env ?
 _**\*Soon available Kubes size (Small, Medium, Large, Xtra Large)**_
 {% endfile %}
 
-> ****
+> Additional fees are charged for any Load Balancer creation from your portainer instance.&#x20;
 
 
 

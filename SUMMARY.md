@@ -1,9 +1,7 @@
 # Table of contents
 
 * [What is portainer.cloud?](README.md)
-* [Guide](guide.md)
 * [Your journey with portainer.cloud](your-journey-with-portainer.cloud.md)
-* [Page 1](page-1.md)
 * [Security](security.md)
 
 ## NOTES FOR
