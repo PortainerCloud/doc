@@ -26,7 +26,10 @@ use your credential to authenticate and get a jwt from the authentication servic
 {% tabs %}
 {% tab title="201" %}
 ```json
-{"error":"invalid_grant","error_description":"Wrong email or password."}
+{
+  "token":"ey...-uPSw",
+  "created_at":"2021-12-09T13:57:15.358Z"
+}
 ```
 {% endtab %}
 {% tab title="403" %}
