@@ -4,7 +4,7 @@ description: Api authentication
 
 # Authentication
 
-## Request
+## Authentication Request
 
 {% tabs %}
 {% tab title="cURL" %}
@@ -21,7 +21,7 @@ curl -XPOST 'https://authapi.portainer.cloud/oauth/token' \
 
 use your credential to authenticate and get a jwt from the authentication service.
 
-## Response
+## Authentication Response
 
 {% tabs %}
 {% tab title="201" %}
@@ -46,6 +46,20 @@ use your credential to authenticate and get a jwt from the authentication servic
   "error":"too_many_attempts",
   "error_description":"Your account has been blocked after multiple consecutive login attempts. We've sent you an email with instructions on how to unblock it."
 }
+```
+{% endtab %}
+{% endtabs %}
+
+In the response, token contains a jwt token you can use for all the requests using the "x-auth-token" http header.
+
+## Token usage 
+
+{% tabs %}
+{% tab title="cURL" %}
+```text
+curl -XPOST 'https://anyapi.portainer.cloud/any' \
+--header 'Content-Type: application/json' \
+--header 'x-auth-token: ey...-uPSw' \
 ```
 {% endtab %}
 {% endtabs %}
