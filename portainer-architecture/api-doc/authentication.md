@@ -8,7 +8,7 @@ description: Api authentication
 
 {% tabs %}
 {% tab title="cURL" %}
-```text
+```
 curl -XPOST 'https://authapi.portainer.cloud/oauth/token' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -32,6 +32,7 @@ use your credential to authenticate and get a jwt from the authentication servic
 }
 ```
 {% endtab %}
+
 {% tab title="403" %}
 ```json
 {
@@ -40,6 +41,7 @@ use your credential to authenticate and get a jwt from the authentication servic
 }
 ```
 {% endtab %}
+
 {% tab title="429" %}
 ```json
 {
@@ -52,11 +54,11 @@ use your credential to authenticate and get a jwt from the authentication servic
 
 In the response, token contains a jwt token you can use for all the requests using the "x-auth-token" http header.
 
-## Token usage 
+## Token usage
 
 {% tabs %}
 {% tab title="cURL" %}
-```text
+```
 curl -XPOST 'https://anyapi.portainer.cloud/any' \
 --header 'Content-Type: application/json' \
 --header 'x-auth-token: ey...-uPSw' \

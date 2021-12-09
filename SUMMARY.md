@@ -15,10 +15,10 @@
 
 ## PORTAINER ARCHITECTURE & API
 
-* [Architecture Technical Overview](portainer-architecture-and-api/architecture-technical-overview.md)
-* [Api doc](portainer-architecture-and-api/api-doc/README.md)
-  * [Authentication](portainer-architecture-and-api/api-doc/authentication.md)
-  * [Account](portainer-architecture-and-api/api-doc/account.md)
-  * [Server](portainer-architecture-and-api/api-doc/server.md)
-  * [Endpoint](portainer-architecture-and-api/api-doc/endpoint.md)
-  * [Kube](portainer-architecture-and-api/api-doc/kube.md)
+* [Architecture Technical Overview](portainer-architecture/architecture-technical-overview.md)
+* [Api doc](portainer-architecture/api-doc/README.md)
+  * [Authentication](portainer-architecture/api-doc/authentication.md)
+  * [Account](portainer-architecture/api-doc/account.md)
+  * [Server](portainer-architecture/api-doc/server.md)
+  * [Endpoint](portainer-architecture/api-doc/endpoint.md)
+  * [Kube](portainer-architecture/api-doc/kube.md)
