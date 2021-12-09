@@ -16,9 +16,9 @@ You’ll be charged at the end of the month after you place an order or whenever
 
 You will be charged at the end of the month.&#x20;
 
-**If I delete an env, a k8s cluster or portainer instance, will I receive a refund?**
+**If I delete an env, a k8s cluster or portainer instance, will I be invoiced for it?**
 
-The max number of the month will be used as invoicing baseline.
+The max number of portainer, env or k8s within the month will be used as invoicing baseline.
 
 **How do I upgrade my portainer instance?**
 
