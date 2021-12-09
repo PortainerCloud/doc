@@ -15,3 +15,9 @@
 ## PORTAINER ARCHITECTURE
 
 * [Architecture Technical Overview](portainer-architecture/architecture-technical-overview.md)
+* [Api doc](portainer-architecture/api-doc/README.md)
+  * [Authentication](portainer-architecture/api-doc/authentication.md)
+  * [Account](portainer-architecture/api-doc/account.md)
+  * [Server](portainer-architecture/api-doc/server.md)
+  * [Endpoint](portainer-architecture/api-doc/endpoint.md)
+  * [Kube](portainer-architecture/api-doc/kube.md)
