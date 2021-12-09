@@ -1,14 +1,14 @@
 # Your journey with portainer.cloud
 
-Get authenticated
+**Get authenticated**
 
-Payment details
+**Payment details**
 
-how to get a dedicated portainer instance?
+**How to get a dedicated portainer instance?**
 
-how to get a server to host your dockerized apps?
+**How to get a server to host your dockerized apps?**
 
-how to get you kubernetes env ?
+**How to get you kubernetes env ?**
 
 
 

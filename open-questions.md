@@ -1,6 +1,6 @@
 # Open questions
 
-Can I use my own infrastructure?
+**Can I use my own infrastructure?**
 
 When you deploy infrastructure through your portainer instance, you own that infrastructure. Currently, we partner with OVH, with more providers on the way. All infrastructure costs are paid directly to your provider with your own account or you go through portainer.cloud account.
 
