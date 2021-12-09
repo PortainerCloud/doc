@@ -24,14 +24,25 @@ use your credential to authenticate and get a jwt from the authentication servic
 ## Response
 
 {% tabs %}
-{% tab title="403" %}
+{% tab title="201" %}
 ```json
 {"error":"invalid_grant","error_description":"Wrong email or password."}
 ```
 {% endtab %}
-{% tab title="201" %}
+{% tab title="403" %}
 ```json
-{"error":"invalid_grant","error_description":"Wrong email or password."}
+{
+  "error":"invalid_grant",
+  "error_description":"Wrong email or password."
+}
+```
+{% endtab %}
+{% tab title="429" %}
+```json
+{
+  "error":"too_many_attempts",
+  "error_description":"Your account has been blocked after multiple consecutive login attempts. We've sent you an email with instructions on how to unblock it."
+}
 ```
 {% endtab %}
 {% endtabs %}
