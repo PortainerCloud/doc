@@ -6,6 +6,7 @@
 * [Service Status](service-status.md)
 * [Any doubt](any-doubt.md)
 * [Open questions](open-questions.md)
+* [Pricing](pricing.md)
 
 ## NOTES FOR
 
