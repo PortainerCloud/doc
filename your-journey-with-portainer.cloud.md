@@ -30,9 +30,9 @@
 {% endfile %}
 
 > As soon as your portainer is available, it will appear on right hand side, by clicking the instance ID get a direct access to portainer. You will be prompted for an Oauth session, or for the admin authentication. \
-> Your porainter backup is included.
+> Your portainer backup is an option to subscribe.
 >
-> Your private docker registry is included
+> Your private docker registry is an option to subscribe
 >
 > **Note that the max number of portainer ordered will be invoiced.**
 
