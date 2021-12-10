@@ -3,6 +3,8 @@
 * [What is portainer.cloud?](README.md)
 * [Your journey with portainer.cloud](your-journey-with-portainer.cloud.md)
 * [Security](security.md)
+* [Service Status](service-status.md)
+* [Any doubt](any-doubt.md)
 * [Open questions](open-questions.md)
 
 ## NOTES FOR
