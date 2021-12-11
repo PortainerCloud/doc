@@ -1,30 +1,31 @@
 # Your journey with portainer.cloud
 
-**Get authenticated**
+****[**Get authenticated**](your-journey-with-portainer.cloud.md#get-authenticated)
 
-**Payment details**
+****[**Payment details**](your-journey-with-portainer.cloud.md#payment-details)
 
-**How to get a dedicated portainer instance?**
+****[**How to get a dedicated portainer instance?**](your-journey-with-portainer.cloud.md#how-to-get-your-dedicated-portainer-instance)
 
-**How to get a server to host your dockerized apps?**
+****[**How to get a server to host your dockerized apps?**](your-journey-with-portainer.cloud.md#how-to-get-a-server-to-host-your-dockerized-apps)
 
-**How to get you kubernetes env ?**
+****[**How to get you kubernetes env ?**](your-journey-with-portainer.cloud.md#how-to-get-your-kubernetes-env)
 
+****
 
+## **Get authenticated**
 
-> **Get authenticated**
->
 > app.portainer.cloud is using auth0 as a Identity Provider. You have three choices to get authenticated, a portainer local account, your Google account or your Github account
 >
 >
 
 ![authentication through auth0](<.gitbook/assets/auth acount (1).png>)
 
-> **Payment details**\
-> ****To add your payment details please enter your debit card number, your card expiration date.  Billing will be performed end of each month, by counting your monthly consumption.
+## **Payment details**
 
-> **How to get your dedicated portainer instance?**
->
+> To add your payment details please enter your debit card number, your card expiration date.  Billing will be performed end of each month, by counting your monthly consumption.
+
+## **How to get your dedicated portainer instance?**
+
 > To start your own portainer instance, please _**click Buy Portainer button**_ in the summary section
 
 ![](<.gitbook/assets/Buy Portainer (1).png>)
@@ -36,8 +37,8 @@
 >
 > **Note that the max number of portainer ordered will be invoiced.**
 
-> **How to get a server to host your dockerized apps?**
->
+## **How to get a server to host your dockerized apps?**
+
 > To get a host to deploy for containers directly attached to your portainer account without any effort, please _**click the button Buy Env**_
 >
 > _**Note that the max number of host ordered will be invoiced**_
@@ -53,8 +54,8 @@
 
 ![](<.gitbook/assets/create env.png>)
 
-> **How to get your kubernetes env ?**
->
+## **How to get your kubernetes env ?**
+
 > To get a fully managed kubernetes environment directly attached to your portainer, pre configured and ready for production without any effort, please _**click the button Buy Kubes**_
 
 ![](<.gitbook/assets/Buy Kubes (1).png>)
