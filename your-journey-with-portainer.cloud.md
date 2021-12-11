@@ -71,7 +71,7 @@
 >
 > Additional fees are charged for any Load Balancer creation from your portainer instance.&#x20;
 
-
+![](<.gitbook/assets/create kubes.png>)
 
 
 
