@@ -44,6 +44,15 @@
 
 ![](<.gitbook/assets/Buy Env.png>)
 
+> **How to create an environement?**\
+> ****The environment creation is requiring you to \
+> &#x20;        **Select the provider**. A default provider is available, we will provide you a dedicated server. Or you can use your own provider account (OVH, AWS, GCP) see Add provider account section.\
+> &#x20;        **Select a region** we can propose you about 8 regions around the globe in Europe, Canada, Asia and pacific, for US region please contact us. Some other region could be availble within your own account.\
+> &#x20;       **Select a model**, we propose small, medium, large and Xlarge servers according to your needs. Please the [Pricing page](pricing.md).\
+> &#x20;       **Select the portainer**, you can select the portainer instance responsible to manage your containers on this host.
+
+![](<.gitbook/assets/create env.png>)
+
 > **How to get your kubernetes env ?**
 >
 > To get a fully managed kubernetes environment directly attached to your portainer, pre configured and ready for production without any effort, please _**click the button Buy Kubes**_
