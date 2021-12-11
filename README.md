@@ -14,8 +14,8 @@ simplicity means
 * Integration between k8s and portainer is fully automated
 * k8s standard configuration is ready and automated
 * Operational complexity does not grow with a cluster scaling out to more and more nodes.
-* Portainer backup are included and automated
-* Private docker registry is included and automated
+* Portainer backup is an option, also fully automated
+* Private docker registry is an option, also fully automated
 
 predictability means
 
