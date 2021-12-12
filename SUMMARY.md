@@ -2,6 +2,7 @@
 
 * [What is portainer.cloud?](README.md)
 * [Your journey with portainer.cloud](your-journey-with-portainer.cloud.md)
+* [Manage my own existing infrastructure](manage-my-own-existing-infrastructure.md)
 * [Security](security.md)
 * [Service Status](service-status.md)
 * [Any doubt](any-doubt.md)
